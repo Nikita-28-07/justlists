@@ -9,6 +9,14 @@
             "name":"SUN TOKEN",
             "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
         },
+         {
+            "symbol":"DWB",
+            "address":"TApkr8onQYb4YkGxCHLbQkMQNstF1td1hw",
+            "chainId":1,
+            "decimals":6,
+            "name":"DWB",
+            "logoURI":"https://coin.top/production/upload/logo/TApkr8onQYb4YkGxCHLbQkMQNstF1td1hw.png?t=1610026266087"
+        },
         {
             "symbol":"BTC",
             "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
